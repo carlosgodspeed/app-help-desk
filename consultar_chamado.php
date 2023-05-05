@@ -1,5 +1,16 @@
 <? require_once "validador_acesso.php";?>
 
+<?php
+
+    $arquivo = fopen('arquivo.hd', 'r');
+
+    while(!feof($arquivo)) {
+      
+        fgets($arquivo);
+    }
+
+?>
+
 <html>
   <head>
     <meta charset="utf-8" />
