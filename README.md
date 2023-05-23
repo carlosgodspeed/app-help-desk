@@ -4,6 +4,8 @@ Projeto Desenvolvido com PHP
 Feito durante Curso De desenvolvimento Web da Udemy para por em prática os conhecimentos Adquiridos
 Foi utilizado o Servidor Apache do XAMPP para o Desenvolvimento  
 
+os Usuarios com função de administrador podem ter acesso a visualização de todos os chamados enquanto os   usuario normal pode apenas observar o seu chamado 
+
 # Tela De Login
 ![Captura de Tela (20)](https://github.com/carlosgodspeed/app-help-desk/assets/100007663/e5be0e21-2101-467f-8f3e-4713eb9ba138)
 
