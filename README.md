@@ -40,26 +40,6 @@ Após configurar o aplicativo, você pode acessá-lo abrindo o navegador e digit
   - Visualize apenas os chamados registrados por você.
   - Atualize o status do seu próprio chamado e adicione comentários conforme necessário.
 
-## Personalização
-
-Você pode personalizar o aplicativo de acordo com suas necessidades. Aqui estão algumas possíveis melhorias e recursos adicionais:
-
-- Adicionar autenticação de usuário para garantir que apenas usuários autorizados possam acessar o aplicativo.
-- Implementar notificações por e-mail para informar as atualizações de chamados.
-- Aprimorar a interface do usuário com recursos de pesquisa, filtragem e ordenação de chamados.
-- Implementar um sistema de relatórios para análise de desempenho e métricas de atendimento.
-
-Sinta-se à vontade para personalizar o aplicativo de acordo com seus requisitos específicos.
-
-## Aviso
-
-Este aplicativo é fornecido como está, sem garantias expressas ou implícitas de qualquer tipo. Use por sua conta e risco.
-
-## Contribuição
-
-Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para contribuir abrindo uma issue ou enviando um pull request no repositório do aplicativo.
-
-Espero que este README ajude você a usar o App Help Desk!
 
 
 | Tela De Login                                           | Tela Menu                                           |
