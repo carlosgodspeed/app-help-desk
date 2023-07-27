@@ -12,33 +12,6 @@ Este é um aplicativo simples de Help Desk que permite o registro e acompanhamen
 - Classificação de chamados por tipo e prioridade para facilitar a organização.
 - Interface intuitiva e fácil de usar.
 
-## Requisitos
-
-Antes de utilizar o aplicativo, certifique-se de ter os seguintes requisitos:
-
-- Servidor web com suporte para PHP.
-
-## Configuração
-
-Siga as etapas abaixo para configurar o aplicativo:
-
-1. Faça o download dos arquivos do aplicativo para o diretório raiz do seu servidor web.
-
-2. Certifique-se de que o PHP esteja corretamente configurado no seu servidor.
-
-## Uso
-
-Após configurar o aplicativo, você pode acessá-lo abrindo o navegador e digitando o endereço do seu servidor web seguido do arquivo `index.php`.
-
-- Usuário Administrador:
-  - Não é necessário fazer login.
-  - Visualize todos os chamados registrados no sistema.
-  - Atualize o status dos chamados e adicione comentários conforme necessário.
-
-- Usuário Normal:
-  - Não é necessário fazer login.
-  - Visualize apenas os chamados registrados por você.
-  - Atualize o status do seu próprio chamado e adicione comentários conforme necessário.
 
 
 
